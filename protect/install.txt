@@ -1,0 +1,5 @@
+Copy protect/install.php to oop/ folder.
+
+SECURITY:
+If everything goes right, install.php will auto delete itself after completion.
+

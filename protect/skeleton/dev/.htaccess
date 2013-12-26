@@ -1,0 +1,6 @@
+DirectoryIndex index.php
+AuthName "Restricted area"
+AuthType Digest
+AuthGroupFile "app/groups"
+AuthUserFile "app/users.Digest"
+Require group admins pubs guests

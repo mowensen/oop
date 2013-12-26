@@ -1,0 +1,19 @@
+
+b,b strong s cite {color:#000080} /* tags */
+big, big b, big em, big ins, big s, strong i, strong i b, strong i s, strong i u, strong i a, strong i a u, strong i s u {color:gray;font-weight:normal;} /* comments */
+b s, strong s u, strong s cite {color:#f48fef;font-weight:normal;} /* attributes and strings */
+strong a, strong a u {color:#006700;} /* variables */
+em {color:#800080;font-style:normal;} /* style */
+ins {color:#800000;} /* script */
+samp {color:orange;} /* cms tags */
+strong u {color:#7F0055;font-weight:bold;} /* reserved words */
+strong cite, s strong cite, strong strong {color:red;} /* <?php and ?> and functions*/
+/*
+b											{color:#0000ff}						// tags 
+ins											{color:#00ffff}						// script 
+em											{color:#800080;font-style:normal}	// style 
+cite										{color:red}							// php tags and functions 
+strong										{color:yellow;font-weight:normal}	// reserved words 
+a											{color:#a6caf0}						// variables 
+s,s strong,s cite							{color:#ff00ff;font-weight:normal}	// strings 
+i,i b,i s,i a,i em,i ins,i cite,i strong	{color:#dddddd;font-weight:normal}	// comments */
